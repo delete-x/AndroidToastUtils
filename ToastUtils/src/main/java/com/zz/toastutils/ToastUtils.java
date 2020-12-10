@@ -177,8 +177,6 @@ public final class ToastUtils {
      * 初始化全局的Toast样式
      *
      * @param style         样式实现类，框架已经实现三种不同的样式
-     *                      黑色样式：{@link ToastBlackStyle}
-     *                      白色样式：{@link ToastWhiteStyle}
      */
     public static void initStyle(IToastStyle style) {
         checkNullPointer(style);

@@ -41,8 +41,8 @@ dependencies {
 publish {
     userOrg = 'zzcatcn'
     groupId = 'com.zz'
-    artifactId = 'ToastUtils'
-    publishVersion = '1.0.0'
+    artifactId = 'toastutils'
+    publishVersion = '1.0.1'
     desc = 'A toast toolkit that supports custom layouts .'
-    website = "https://github.com/delete-x/AndroidTitleBar"
+    website = "https://github.com/delete-x/AndroidToastUtils"
 }
